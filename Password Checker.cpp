@@ -1,6 +1,3 @@
-//Chase Salas
-//OCCC Spring 2022
-//Beginning Programming
 
 #include<iostream>
 #include<cctype>
